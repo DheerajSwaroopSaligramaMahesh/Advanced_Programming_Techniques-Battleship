@@ -24,22 +24,23 @@ The project also comes with unit tests to ensure correctness of core game mechan
 ---
 
 ## Project Structure
-├── src/<br>
-│ ├── main.cpp # Entry point for the game<br>
-│ ├── Board.h/.cpp # Represents the overall game board<br>
-│ ├── OwnGrid.h/.cpp # Player's grid with ships<br>
-│ ├── OpponentGrid.h/.cpp # Opponent's grid with shot tracking<br>
-│ ├── Ship.h/.cpp # Ship representation<br>
-│ ├── GridPosition.h/.cpp # Handles row/column positions<br>
-│ ├── Shot.h/.cpp # Represents a shot fired<br>
-│ ├── ConsoleView.h/.cpp # Handles board display<br>
-│<br>
-├── tests/<br>
-│ ├── part1tests.cpp # GridPosition & Ship basic tests<br>
-│ ├── part2tests.cpp # Blocked area & ship placement tests<br>
-│ ├── part3tests.cpp # Blow-taking & opponent grid tests<br>
-│<br>
-└── README.md<br>
+├── src/
+│   ├── main.cpp            # Entry point for the game
+│   ├── Board.h/.cpp        # Represents the overall game board
+│   ├── OwnGrid.h/.cpp      # Player's grid with ships
+│   ├── OpponentGrid.h/.cpp # Opponent's grid with shot tracking
+│   ├── Ship.h/.cpp         # Ship representation
+│   ├── GridPosition.h/.cpp # Handles row/column positions
+│   ├── Shot.h/.cpp         # Represents a shot fired
+│   ├── ConsoleView.h/.cpp  # Handles board display
+
+├── tests/
+│   ├── part1tests.cpp      # GridPosition & Ship basic tests
+│   ├── part2tests.cpp      # Blocked area & ship placement tests
+│   ├── part3tests.cpp      # Blow-taking & opponent grid tests
+
+└── README.md
+
 
 ## How to Play
 
