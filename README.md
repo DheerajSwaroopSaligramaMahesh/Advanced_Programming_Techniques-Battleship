@@ -24,23 +24,22 @@ The project also comes with unit tests to ensure correctness of core game mechan
 ---
 
 ## Project Structure
-project-root/
-├── src/ # Source code
-│ ├── main.cpp # Entry point for the game
-│ ├── Board.h / Board.cpp # Represents the overall game board
-│ ├── OwnGrid.h / OwnGrid.cpp # Player's grid with ships
-│ ├── OpponentGrid.h / .cpp # Opponent's grid with shot tracking
-│ ├── Ship.h / Ship.cpp # Ship representation
-│ ├── GridPosition.h / .cpp # Handles row/column positions
-│ ├── Shot.h / Shot.cpp # Represents a shot fired
-│ └── ConsoleView.h / .cpp # Handles board display
-│
-├── tests/ # Unit tests
-│ ├── part1tests.cpp # GridPosition & Ship basic tests
-│ ├── part2tests.cpp # Blocked area & ship placement tests
-│ └── part3tests.cpp # Blow-taking & opponent grid tests
-│
-└── README.md # Project documentation
+├── src/<br>
+│   ├── main.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Entry point for the game<br>
+│   ├── Board.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Represents the overall game board<br>
+│   ├── OwnGrid.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Player's grid with ships<br>
+│   ├── OpponentGrid.h/.cpp&nbsp;# Opponent's grid with shot tracking<br>
+│   ├── Ship.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Ship representation<br>
+│   ├── GridPosition.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;# Handles row/column positions<br>
+│   ├── Shot.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Represents a shot fired<br>
+│   ├── ConsoleView.h/.cpp&nbsp;&nbsp;&nbsp;# Handles board display<br>
+<br>
+├── tests/<br>
+│   ├── part1tests.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# GridPosition & Ship basic tests<br>
+│   ├── part2tests.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Blocked area & ship placement tests<br>
+│   ├── part3tests.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Blow-taking & opponent grid tests<br>
+<br>
+└── README.md<br>
 
 
 ## How to Play
