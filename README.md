@@ -7,7 +7,7 @@ The project also comes with unit tests to ensure correctness of core game mechan
 ---
 
 ## Features
-- 🛳️ **Ship Management**  
+- **Ship Management**  
   - Supports ship placement with validation (length, alignment, adjacency).  
   - Tracks occupied and blocked grid positions.
 
