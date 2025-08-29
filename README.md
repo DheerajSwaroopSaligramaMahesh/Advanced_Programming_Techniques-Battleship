@@ -25,7 +25,7 @@ The project also comes with unit tests to ensure correctness of core game mechan
 
 ## Project Structure
 ├── src/<br>
-│   ├── main.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Entry point for the game<br>
+│   ├── main.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Entry point for the game<br>
 │   ├── Board.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Represents the overall game board<br>
 │   ├── OwnGrid.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Player's grid with ships<br>
 │   ├── OpponentGrid.h/.cpp&nbsp;# Opponent's grid with shot tracking<br>
