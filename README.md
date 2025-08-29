@@ -26,13 +26,13 @@ The project also comes with unit tests to ensure correctness of core game mechan
 ## Project Structure
 ├── src/<br>
 │   ├── main.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Entry point for the game<br>
-│   ├── Board.h/.cpp        # Represents the overall game board<br>
-│   ├── OwnGrid.h/.cpp      # Player's grid with ships<br>
-│   ├── OpponentGrid.h/.cpp # Opponent's grid with shot tracking<br>
-│   ├── Ship.h/.cpp         # Ship representation<br>
-│   ├── GridPosition.h/.cpp # Handles row/column positions<br>
-│   ├── Shot.h/.cpp         # Represents a shot fired<br>
-│   ├── ConsoleView.h/.cpp  # Handles board display<br>
+│   ├── Board.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Represents the overall game board<br>
+│   ├── OwnGrid.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Player's grid with ships<br>
+│   ├── OpponentGrid.h/.cpp&nbsp;# Opponent's grid with shot tracking<br>
+│   ├── Ship.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Ship representation<br>
+│   ├── GridPosition.h/.cpp&nbsp;# Handles row/column positions<br>
+│   ├── Shot.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Represents a shot fired<br>
+│   ├── ConsoleView.h/.cpp&nbsp;&nbsp;# Handles board display<br>
 <br>
 ├── tests/<br>
 │   ├── part1tests.cpp      # GridPosition & Ship basic tests<br>
