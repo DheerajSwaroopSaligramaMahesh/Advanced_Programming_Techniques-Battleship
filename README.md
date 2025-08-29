@@ -35,9 +35,9 @@ The project also comes with unit tests to ensure correctness of core game mechan
 │   ├── ConsoleView.h/.cpp&nbsp;&nbsp;# Handles board display<br>
 <br>
 ├── tests/<br>
-│   ├── part1tests.cpp      # GridPosition & Ship basic tests<br>
-│   ├── part2tests.cpp      # Blocked area & ship placement tests<br>
-│   ├── part3tests.cpp      # Blow-taking & opponent grid tests<br>
+│   ├── part1tests.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# GridPosition & Ship basic tests<br>
+│   ├── part2tests.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Blocked area & ship placement tests<br>
+│   ├── part3tests.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Blow-taking & opponent grid tests<br>
 <br>
 └── README.md<br>
 
