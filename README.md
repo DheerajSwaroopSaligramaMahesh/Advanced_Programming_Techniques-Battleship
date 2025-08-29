@@ -38,3 +38,5 @@ The project also comes with unit tests to ensure correctness of core game mechan
 │ ├── part1tests.cpp # GridPosition & Ship basic tests<br>
 │ ├── part2tests.cpp # Blocked area & ship placement tests<br>
 │ ├── part3tests.cpp # Blow-taking & opponent grid tests<br>
+│<br>
+└── README.md<br>
