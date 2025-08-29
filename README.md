@@ -44,7 +44,7 @@ The project also comes with unit tests to ensure correctness of core game mechan
 ## How to Play
 
 1. Compile the provided source files with a C++ compiler:  
-   [Source Code Link]([https://github.com/DheerajSwaroopSaligramaMahesh/Advanced_Programming_Techniques-Battleship/tree/main/src](https://github.com/DheerajSwaroopSaligramaMahesh/Advanced_Programming_Techniques-Battleship/tree/main/Battleship/myCode))
+   [Source Code Link](https://github.com/DheerajSwaroopSaligramaMahesh/Advanced_Programming_Techniques-Battleship/tree/main/Battleship/myCode)
 
 2. Run the generated executable.
 
