@@ -40,3 +40,17 @@ The project also comes with unit tests to ensure correctness of core game mechan
 │ ├── part3tests.cpp # Blow-taking & opponent grid tests<br>
 │<br>
 └── README.md<br>
+
+## 🎮 How to Play
+
+1. Compile the provided source files with a C++ compiler:  
+   [Source Code Link]([https://github.com/DheerajSwaroopSaligramaMahesh/Advanced_Programming_Techniques-Battleship/tree/main/src](https://github.com/DheerajSwaroopSaligramaMahesh/Advanced_Programming_Techniques-Battleship/tree/main/Battleship/myCode))
+
+2. Run the generated executable.
+
+3. The program will first run a series of unit tests to validate core functionality.
+
+4. After tests pass, the game will display the own grid and opponent grid in the console.
+
+5. (Work-in-progress) Interactive gameplay logic can be extended — currently, the focus is on grid/ship handling, placement validation, and hit/miss tracking.
+
