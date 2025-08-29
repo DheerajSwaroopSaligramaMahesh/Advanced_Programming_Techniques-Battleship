@@ -32,7 +32,7 @@ The project also comes with unit tests to ensure correctness of core game mechan
 │   ├── Ship.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Ship representation<br>
 │   ├── GridPosition.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;# Handles row/column positions<br>
 │   ├── Shot.h/.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Represents a shot fired<br>
-│   ├── ConsoleView.h/.cpp&nbsp;&nbsp;# Handles board display<br>
+│   ├── ConsoleView.h/.cpp&nbsp;&nbsp;&nbsp;# Handles board display<br>
 <br>
 ├── tests/<br>
 │   ├── part1tests.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# GridPosition & Ship basic tests<br>
